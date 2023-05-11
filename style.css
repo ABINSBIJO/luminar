@@ -1,0 +1,209 @@
+.navbar navbar-expand-lg navbar-light bg-light{
+    position: relative;
+}
+#logo{
+   position: relative;
+    left: 150px;
+}
+#navbarNav{
+    position: relative;
+    left: 500px;
+
+}
+#navbarNav:hover{
+    position: relative;
+  color: rgb(212, 13, 13);
+}
+
+/* enquire */
+
+.enquire{
+    position: relative;
+    background-color:#DECCFF ;
+    height: 500px;
+    display: flex;
+}
+
+#text{
+    position: absolute;
+    background-color:#DECCFF;
+    color: #6D1D8E;
+    height: 400px;
+    width: 500px;
+    left: 150px;
+    top: 50px;
+}
+#p{
+    color: black;
+  
+}
+#b{
+    color: rgb(255, 255, 255);
+   position: absolute;
+   background-color: #6D1D8E;
+   border-radius: 25px;
+   height: 45px;
+   width: 160px;
+   border: none;
+}
+#pic{
+    position: absolute;
+    height: 00px;
+    left: 700px ;
+    top: 20px;
+}
+
+
+/* 100 */
+
+
+#hundread{
+   
+    color:#6D1D8E ;
+    top: 110px;
+    left: 450px;
+    font-size: 60px;
+}
+#text1{
+    position: relative;
+    height: 30px;
+    width: 800px;
+    left:  450px;
+    text-align: justify;
+}
+
+#search{
+    position: absolute;
+    width: 1200px;
+    height: 50px;
+    background-color: rgb(255, 255, 255);
+    text-align: left;
+    left: 200px;
+    color: #8d8b90;
+    border: none;
+    font-size: 20px;
+  
+    
+}
+#icon{
+    position: relative;
+    left: 900px;
+}
+   
+
+
+/* courses */
+
+
+
+.row{
+    display: flex;
+}
+.col1{
+    position: relative;
+    height: 650px;
+    width: 350px;
+    background-color: rgb(238, 235, 235);
+    margin: 10px;
+    padding: 25px;
+    border-radius: 25px;
+    left: 250px;
+}
+
+#icon1{
+    position: relative;
+    top: 40px;
+    left: 150px;
+}
+.col1:hover{
+    background-color: rgb(255, 255, 255);
+    box-shadow: 0 0 3px #a8a1a1;
+}
+.training-program-card-one-heading{
+    color: #6D1D8E;
+    font-weight: bold;
+}
+.training-program-card-title{
+    color: #6D1D8E;
+    font-weight: bold;
+}
+.sub-date-courseList{
+    color: #6D1D8E;
+    font-weight: bold;
+}
+.training-program-card-button{
+    border-radius: 25px;
+    width: 150px;
+    font-weight: bold;
+    color: #6D1D8E;
+    height: 50px;
+    position: relative;
+    left: 50px;
+    font-weight: bold;
+    border-color: #6D1D8E;
+   
+}
+.training-program-card-button:hover
+{
+background-color: #6D1D8E;
+color: rgb(255, 255, 255);
+}
+
+
+/* luminar points */
+
+.point{
+    position: relative;
+    height: 800px;
+    background-color: rgb(210, 214, 214);
+   
+}
+#img{
+    height: 800px;
+}
+.row2{
+    display: flex;
+}
+
+.why{
+    color: #6D1D8E;
+}
+.black{
+    height: 500px;
+    background-image: url('https://images.pexels.com/photos/7054785/pexels-photo-7054785.jpeg?cs=srgb&dl=pexels-kindel-media-7054785.jpg&fm=jpg');
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+#so{
+    position: relative;
+    color: azure;
+    font-weight: bold;
+    font-family: 'Instrument Serif', serif;
+    text-align: center;
+    top: 50px;
+    font-size: 60px;
+}
+#query{
+    position: relative;
+    color: rgb(179, 174, 35);
+    top: 50px;
+    left: 500px;
+}
+#join{
+    position: relative;
+    height: 50px;
+    width: 150px;
+    top: 50px;
+    left: 650px;
+    border-radius: 25px;
+    font-weight: bold;
+    color: #6D1D8E;
+}
+.col2{
+    position: relative;
+   
+} 
+.why-luminar-list{
+    
+}
